@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('ng-gratitude-girls App', () => {
+describe('ng-gracious-girls App', () => {
   let page: AppPage;
 
   beforeEach(() => {
