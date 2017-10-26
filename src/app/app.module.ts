@@ -8,7 +8,8 @@ import { AppComponent } from './app.component';
   declarations: [
     AppComponent
   ],
-  imports: [NgbModule.forRoot(),
+  imports: [
+    NgbModule.forRoot(),
     BrowserModule
   ],
   providers: [],
