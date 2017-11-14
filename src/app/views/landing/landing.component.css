@@ -25,6 +25,10 @@
 }
 
 @media (min-width: 992px) {
+  .masthead {
+    background-size: 100% auto;
+    margin-top: 0em;
+  }
   .masthead>.overlay {
     padding: 10rem 0;
   }
