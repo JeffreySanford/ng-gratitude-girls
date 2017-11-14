@@ -29,7 +29,8 @@
     background-size: 100% auto;
     margin-top: 0em;
   }
-  .masthead>.overlay {
-    padding: 10rem 0;
+  header.masthead>.overlay {
+    padding: 8rem 0;
+    margin-bottom: 2rem;
   }
 }
