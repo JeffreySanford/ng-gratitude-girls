@@ -1,0 +1,31 @@
+.masthead {
+  background: url('../../../assets/img/Maid-woman-with-tools-House-cleaning-service-concept--Stock-Photo.jpg') no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  background-size: 80% auto;
+  margin-top: 3em;
+}
+
+.masthead>.overlay {
+  padding: 5rem 0;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.6);
+}
+.btn-circle {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  padding: 6px 0;
+  font-size: 12px;
+  line-height: 1.42;
+  border: 1px solid white;
+  border-radius: 100px;
+}
+
+@media (min-width: 992px) {
+  .masthead>.overlay {
+    padding: 10rem 0;
+  }
+}
